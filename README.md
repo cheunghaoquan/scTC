@@ -1,6 +1,7 @@
 # scTC--Single Cell Triplet Constrained clustering
 
-环境安装包  scanpy、torch(gpu)
+
+环境安装包  scanpy、pytorch(gpu)
 
 scTC.py    --scTC算法主体
 
